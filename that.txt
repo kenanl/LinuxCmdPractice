@@ -1,0 +1,4 @@
+              (That  is, CONTROL and LEFTARROW simultaneously.)  Move the cur-
+              (That is, CONTROL and RIGHTARROW simultaneously.)  Move the cur-
+              (That is, CONTROL and  BACKSPACE  simultaneously.)   Delete  the
+              (That  is,  CONTROL and DELETE simultaneously.)  Delete the word
